@@ -1,0 +1,14 @@
+ body{background-color: black;}
+
+.container{width: 50%;margin: 80px auto 0;border-radius: 20px;padding: 40px 35px;
+    background: linear-gradient(135deg,#00feda,#5d548a);}
+ .form{display: flex;justify-content: space-between;width: 100%;align-items: center;}
+ .form input{border: 0;outline: 0 ;background-color:#ebfffc ;color: #555;padding: 10px 25px;
+border-radius: 30px;height: 60px; flex: 1;margin-right: 16px ;font-size: 18px;}
+.form button{border: 0;outline: 0 ;background-color:#ebfffc ;color: #555;height: 50px;width: 50px;border-radius: 50%;}
+.weather-icon{width:100%;margin-top: 30px;display: flex;justify-content: center;align-items: center;}
+.weather-info{color: white;}
+.hidden{display: none;}
+.city{color: white;}
+.text{display: flex;justify-content: space-between;align-items: center;margin-top: 50px;}
+ 
